@@ -1,0 +1,26 @@
+[
+  {
+    "file": "chart-data.csv",
+    "url": "https://studentaccommodationfinance.co.uk/reports/h1-2026/chart-data.csv",
+    "bytes": 13114,
+    "sha256": "a77ceb44b7aa14e9206576a1c1e43a81cbcbe69631e0163f31616d9e35cb98f8",
+    "http": "200|text/csv; charset=UTF-8",
+    "retrieved_at": "2026-09-12T11:13:44.638406+00:00"
+  },
+  {
+    "file": "methodology.md",
+    "url": "https://studentaccommodationfinance.co.uk/reports/h1-2026/methodology.md",
+    "bytes": 10366,
+    "sha256": "ef1d2aa675291e32ab16a9bea770a7da74ba2e167cc86e213ac36a5a15b08a2c",
+    "http": "200|text/markdown; charset=UTF-8",
+    "retrieved_at": "2026-09-12T11:13:45.082586+00:00"
+  },
+  {
+    "file": "database-evidence.json",
+    "url": "https://studentaccommodationfinance.co.uk/reports/h1-2026/database-evidence.json",
+    "bytes": 12928,
+    "sha256": "a44fd4340aa51735fe244627b3f457a5c497bf2a9d588a8527277292e40fb658",
+    "http": "200|application/json",
+    "retrieved_at": "2026-09-12T11:13:45.814938+00:00"
+  }
+]

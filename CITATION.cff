@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the associated report and relevant underlying sources. This repository contains supporting aggregate data for the same study."
+title: "H1 2026 Student Accommodation Finance: supporting data"
+type: dataset
+authors:
+  - family-names: Lenzie
+    given-names: Matt
+    affiliation: Student Accommodation Finance
+version: "1.0.0"
+date-released: 2026-09-25
+url: "https://studentaccommodationfinance.co.uk/insights/h1-2026-student-accommodation-finance-report/"
+preferred-citation:
+  type: report
+  title: "H1 2026 Student Accommodation Finance Report"
+  authors:
+    - family-names: Lenzie
+      given-names: Matt
+      affiliation: Student Accommodation Finance
+  date-released: 2026-09-12
+  doi: "10.5281/zenodo.22733171"
+  url: "https://studentaccommodationfinance.co.uk/insights/h1-2026-student-accommodation-finance-report/"

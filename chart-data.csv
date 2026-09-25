@@ -1,0 +1,65 @@
+﻿exhibit,title,row,measure,value,scope_note
+1,Value and deal count show the effect of Q1’s large transactions,Q1 2026,Investment value,£2.1bn (rounded),UK PBSA investment (£ million) and completed transactions; separate scales. Q1 investment value is rounded.
+1,Value and deal count show the effect of Q1’s large transactions,Q1 2026,Completed deals,20,UK PBSA investment (£ million) and completed transactions; separate scales. Q1 investment value is rounded.
+1,Value and deal count show the effect of Q1’s large transactions,Q2 2026,Investment value,£164m,UK PBSA investment (£ million) and completed transactions; separate scales. Q1 investment value is rounded.
+1,Value and deal count show the effect of Q1’s large transactions,Q2 2026,Completed deals,13,UK PBSA investment (£ million) and completed transactions; separate scales. Q1 investment value is rounded.
+1,Value and deal count show the effect of Q1’s large transactions,H1 2026,Investment value,£2.3bn (reported),UK PBSA investment (£ million) and completed transactions; separate scales. Q1 investment value is rounded.
+1,Value and deal count show the effect of Q1’s large transactions,H1 2026,Completed deals,33,UK PBSA investment (£ million) and completed transactions; separate scales. Q1 investment value is rounded.
+2,Selected H1 facilities total £142.7m across two financing strategies,Development / refurbishment,Combined facilities (£m),£73.65m,"Six announcements, grouped by primary disclosed use. Each group contains three facilities; selected sample, not market coverage."
+2,Selected H1 facilities total £142.7m across two financing strategies,Development / refurbishment,Facility count,3,"Six announcements, grouped by primary disclosed use. Each group contains three facilities; selected sample, not market coverage."
+2,Selected H1 facilities total £142.7m across two financing strategies,Investment / term refinance,Combined facilities (£m),£69.05m,"Six announcements, grouped by primary disclosed use. Each group contains three facilities; selected sample, not market coverage."
+2,Selected H1 facilities total £142.7m across two financing strategies,Investment / term refinance,Facility count,3,"Six announcements, grouped by primary disclosed use. Each group contains three facilities; selected sample, not market coverage."
+3,Unite’s reported LTV increased during H1,See-through LTV,Dec 2025,27%,"See-through LTV excluding IFRS 16 leases; one operator, not a market average."
+3,Unite’s reported LTV increased during H1,See-through LTV,Jun 2026,36%,"See-through LTV excluding IFRS 16 leases; one operator, not a market average."
+4,Security creation continued throughout the half,2026-01,Charge instruments,31,"Monthly charge instruments in the screened cohort, by creation date. Not completed loan transactions."
+4,Security creation continued throughout the half,2026-02,Charge instruments,15,"Monthly charge instruments in the screened cohort, by creation date. Not completed loan transactions."
+4,Security creation continued throughout the half,2026-03,Charge instruments,27,"Monthly charge instruments in the screened cohort, by creation date. Not completed loan transactions."
+4,Security creation continued throughout the half,2026-04,Charge instruments,16,"Monthly charge instruments in the screened cohort, by creation date. Not completed loan transactions."
+4,Security creation continued throughout the half,2026-05,Charge instruments,12,"Monthly charge instruments in the screened cohort, by creation date. Not completed loan transactions."
+4,Security creation continued throughout the half,2026-06,Charge instruments,23,"Monthly charge instruments in the screened cohort, by creation date. Not completed loan transactions."
+5,A keyword search contains several different financing signals,Primary capacity-related applications,Observed records,25,Selected activity classes within 116 H1-received records; applications and other record types are separated.
+5,A keyword search contains several different financing signals,Flexibility / exit records,Observed records,10,Selected activity classes within 116 H1-received records; applications and other record types are separated.
+5,A keyword search contains several different financing signals,Refurbishment / amenity / operating works,Observed records,8,Selected activity classes within 116 H1-received records; applications and other record types are separated.
+5,A keyword search contains several different financing signals,"Other records, separated from these activity classes",Observed records,73,Selected activity classes within 116 H1-received records; applications and other record types are separated.
+6,Residential acquisition context varies across university markets,Oxford,Observed sales,559,Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Oxford,Median price,"£440,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Oxford,Terraced median,"£436,500",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Bristol,Observed sales,"4,064",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Bristol,Median price,"£350,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Bristol,Terraced median,"£344,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Exeter,Observed sales,712,Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Exeter,Median price,"£300,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Exeter,Terraced median,"£270,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Southampton,Observed sales,"1,928",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Southampton,Median price,"£295,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Southampton,Terraced median,"£270,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Manchester,Observed sales,"4,053",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Manchester,Median price,"£235,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Manchester,Terraced median,"£210,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Leeds,Observed sales,"2,854",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Leeds,Median price,"£230,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Leeds,Terraced median,"£185,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Nottingham,Observed sales,"3,358",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Nottingham,Median price,"£220,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Nottingham,Terraced median,"£175,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Sheffield,Observed sales,"2,343",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Sheffield,Median price,"£205,000",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+6,Residential acquisition context varies across university markets,Sheffield,Terraced median,"£182,750",Observed H1 residential median price by postal town; not student HMO comparables or PBSA values per bed.
+7,"Three demand signals, three distinct populations",International UCAS undergraduate applicants,Observation period,June 2026 deadline,Year-on-year change; observation periods differ. These series must not be added or treated as one index.
+7,"Three demand signals, three distinct populations",International UCAS undergraduate applicants,YoY change,+7.1%,Year-on-year change; observation periods differ. These series must not be added or treated as one index.
+7,"Three demand signals, three distinct populations",Main-applicant sponsored-study grants,Observation period,Year ending June 2026,Year-on-year change; observation periods differ. These series must not be added or treated as one index.
+7,"Three demand signals, three distinct populations",Main-applicant sponsored-study grants,YoY change,-12%,Year-on-year change; observation periods differ. These series must not be added or treated as one index.
+7,"Three demand signals, three distinct populations",International HE enrolments,Observation period,Academic year 2024/25,Year-on-year change; observation periods differ. These series must not be added or treated as one index.
+7,"Three demand signals, three distinct populations",International HE enrolments,YoY change,-6%,Year-on-year change; observation periods differ. These series must not be added or treated as one index.
+8,The same £12m debt can move from 60% to 73% LTV,£0.9m,4.75% yield,63.3%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£0.9m,5.00% yield,66.7%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£0.9m,5.50% yield,73.3%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£0.9m,6.00% yield,80.0%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£1.0m,4.75% yield,57.0%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£1.0m,5.00% yield,60.0%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£1.0m,5.50% yield,66.0%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£1.0m,6.00% yield,72.0%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£1.1m,4.75% yield,51.8%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£1.1m,5.00% yield,54.5%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£1.1m,5.50% yield,60.0%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
+8,The same £12m debt can move from 60% to 73% LTV,£1.1m,6.00% yield,65.5%,Illustrative LTV under alternative net operating income and valuation yields. Debt held constant.
