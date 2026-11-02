@@ -53,6 +53,8 @@ The [Posit June-exclusion diagnostic](https://01a19b9d-0dff-28f1-f6ef-52427eb011
 
 Use the [H1 research navigation guide](https://sites.google.com/view/saf-h1-2026-research-guide/home) to choose a reading copy, presentation or analytical resource. These companions share authorship and source evidence with SAF-H1-2026; they do not provide independent corroboration or new reuse rights.
 
+Use the [Colab median aggregation notebook](https://colab.research.google.com/github/mattylll/saf-h1-2026-student-accommodation-finance-data/blob/main/notebooks/median-aggregation.ipynb) to see why count-weighting town medians cannot recover a pooled median. It preserves the real town summaries and separates two unitless teaching examples from the source records. The [notebook source](notebooks/median-aggregation.ipynb) includes tested, saved outputs.
+
 ## Rights
 
 The original publication reserves copyright. Third-party source material remains subject to its original publishers' terms. This reader guide grants no new licence over the source files. All rights reserved. No open reuse licence is granted over the original source package; contact the publisher for permission where required. Third-party rights and applicable statutory rights remain unaffected.
