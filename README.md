@@ -55,6 +55,8 @@ Use the [H1 research navigation guide](https://sites.google.com/view/saf-h1-2026
 
 Use the [Colab median aggregation notebook](https://colab.research.google.com/github/mattylll/saf-h1-2026-student-accommodation-finance-data/blob/main/notebooks/median-aggregation.ipynb) to see why count-weighting town medians cannot recover a pooled median. It preserves the real town summaries and separates two unitless teaching examples from the source records. The [notebook source](notebooks/median-aggregation.ipynb) includes tested, saved outputs.
 
+For a practical review of financing headlines, use the [six-field financing evidence card](https://studentaccommodationfinance.wordpress.com/). It records source, funding stage, purpose, dates, coverage and the further evidence needed before choosing comparable facilities.
+
 ## Rights
 
 The original publication reserves copyright. Third-party source material remains subject to its original publishers' terms. This reader guide grants no new licence over the source files. All rights reserved. No open reuse licence is granted over the original source package; contact the publisher for permission where required. Third-party rights and applicable statutory rights remain unaffected.
