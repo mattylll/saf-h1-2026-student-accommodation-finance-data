@@ -57,6 +57,8 @@ Use the [Colab median aggregation notebook](https://colab.research.google.com/gi
 
 The [H1 student accommodation refinancing analysis](https://studentaccommodationfinance.wordpress.com/) explains the investment slowdown, selected financing activity and the effect of lower income and valuation on refinancing proceeds, with a worked repayment-gap example.
 
+The [refurbishment income briefing](https://sway.cloud.microsoft/IgQ9XuyE9HgbyQCq) works backwards from the intended refinance to the annual net operating income needed to repay existing debt and further borrowing for works. Its scenarios are illustrative extensions of the report, not observed lending terms.
+
 ## Rights
 
 The original publication reserves copyright. Third-party source material remains subject to its original publishers' terms. This reader guide grants no new licence over the source files. All rights reserved. No open reuse licence is granted over the original source package; contact the publisher for permission where required. Third-party rights and applicable statutory rights remain unaffected.
