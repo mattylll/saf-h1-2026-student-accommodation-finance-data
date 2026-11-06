@@ -4,6 +4,8 @@ Study identifier: **SAF-H1-2026**. Published 12 September 2026. Activity window:
 
 These are supporting files for the [H1 report](https://studentaccommodationfinance.co.uk/insights/h1-2026-student-accommodation-finance-report/), also archived at [Zenodo DOI 10.5281/zenodo.22733171](https://doi.org/10.5281/zenodo.22733171). This package represents the same study. Cite the original report and relevant underlying sources when using its evidence.
 
+Report author: [Matt Lenzie, ORCID 0009-0007-6950-7669](https://orcid.org/0009-0007-6950-7669). This author-maintained record lists the existing report DOI and Student Accommodation Finance affiliation.
+
 ## Files and reading order
 
 1. `methodology.md`: read first for population definitions, screening, dates, source attribution and exclusions.
