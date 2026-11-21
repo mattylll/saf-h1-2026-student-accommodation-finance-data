@@ -61,6 +61,8 @@ The [H1 student accommodation refinancing analysis](https://studentaccommodation
 
 The [refurbishment income briefing](https://sway.cloud.microsoft/IgQ9XuyE9HgbyQCq) works backwards from the intended refinance to the annual net operating income needed to repay existing debt and further borrowing for works. Its scenarios are illustrative extensions of the report, not observed lending terms.
 
+The [development loan net-proceeds note](https://hackmd.io/@qqppbi21S2-pW8pRex5ZzQ/BJyYkZy1me) calculates initial cash within a fixed repayment ceiling after a financed fee and monthly rolled-up interest. It includes checked Python and 12, 15 and 18-month illustrations. All inputs are hypothetical; it adds no observed transactions and does not model staged advances.
+
 ## Rights
 
 The original publication reserves copyright. Third-party source material remains subject to its original publishers' terms. This reader guide grants no new licence over the source files. All rights reserved. No open reuse licence is granted over the original source package; contact the publisher for permission where required. Third-party rights and applicable statutory rights remain unaffected.
