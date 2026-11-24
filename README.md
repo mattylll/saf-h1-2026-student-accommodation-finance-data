@@ -47,6 +47,10 @@ These are checks of the published aggregates, not a recreation or independent au
 
 For citation, use the associated report identified in `CITATION.cff`. Its Zenodo DOI identifies that report, not a new GitHub dataset DOI.
 
+## Find the cited sources
+
+Use the [H1 source register](https://airtable.com/appa4YdURfBffO3Zp/shrPh8xEHnCNy1SEF) to filter the report's 19 references by evidence family and open each original source beside the report section that uses it. It keeps the cited dates, observation periods and limits on interpretation together. The register is compiled from the same SAF-H1-2026 edition; its November link checks establish availability, not an independent audit of historical claims.
+
 ## Follow the evidence into a worked example
 
 For a narrow, checked import that preserves display values and scope notes, use the [GitBook data reference](https://construction-capital.gitbook.io/student-accommodation-finance-data-reference). For the difference between activity dates and evidence publication, read the [date explainer](https://telegra.ph/Why-an-H1-finance-report-can-use-evidence-published-after-June-10-30).
