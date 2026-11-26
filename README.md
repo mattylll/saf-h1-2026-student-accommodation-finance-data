@@ -67,6 +67,8 @@ The [refurbishment income briefing](https://sway.cloud.microsoft/IgQ9XuyE9HgbyQC
 
 The [development loan net-proceeds note](https://hackmd.io/@qqppbi21S2-pW8pRex5ZzQ/BJyYkZy1me) calculates initial cash within a fixed repayment ceiling after a financed fee and monthly rolled-up interest. It includes checked Python and 12, 15 and 18-month illustrations. All inputs are hypothetical; it adds no observed transactions and does not model staged advances.
 
+The [staged drawdown interest calculator](https://gitlab.com/commercialmortgagesbroker/saf-staged-drawdown-interest-calculator) models simple cash-serviced interest as principal rises in equal monthly stages, with a separate cash fee and extra months at full draw. The downloadable browser tool includes a monthly CSV and a portable independent calculation check. Its assumptions are invented; it does not estimate net proceeds, model interest roll-up or add observed lending evidence.
+
 ## Rights
 
 The original publication reserves copyright. Third-party source material remains subject to its original publishers' terms. This reader guide grants no new licence over the source files. All rights reserved. No open reuse licence is granted over the original source package; contact the publisher for permission where required. Third-party rights and applicable statutory rights remain unaffected.
